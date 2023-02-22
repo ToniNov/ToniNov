@@ -31,5 +31,5 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/anton-novik-22388b234/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anton Novik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/anton-novik-22388b234/)
 [![Telegram Badge](https://img.shields.io/badge/-Toni-red?color=white&logo=telegram&logoColor=blue&link=https://twitter.com/prince_shivaram)](https://t.me/undefinedToni)
